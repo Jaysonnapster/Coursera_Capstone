@@ -1,6 +1,3 @@
-
-## This is a markdown for coursera capstone project
-
 import pandas as pd
 import numpy as np
 
